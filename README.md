@@ -28,4 +28,6 @@
 <code>$ php artisan serve</code>
 
 >If done all stuffs than open your favorite browser hit localhost:<br/>
-<code>http://localhost:80/api</code>
+<code>127.0.0.1:8000</code>
+
+>Now  Import the Food Delivery App.postman_collection.json in post man and run the test
